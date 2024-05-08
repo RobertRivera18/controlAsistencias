@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 # Sistema de Control de Asistencias
-
+Este sistema de control de asistencias usa una plantilla de AdminLTE
 ## Built With
 
 - Html
