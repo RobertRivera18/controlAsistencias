@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
-# Name Repository
-
-> Control AAsistencias.
-
+# Sistema de Control de Asistencias
 
 ## Built With
 
