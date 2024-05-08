@@ -9,17 +9,18 @@
 - JavaScript
 - PHP
 - Mysql
+- EL script de la base de datos se debe importar desde el panel de PHPMyadmin para poder hacer uso del aplicativo.
 
 
 ## Getting Started
 
--Sistema de control de asistencias para el registro de ingreso y salida de empleados.
--Este sistema cuenta con un panel administrativo por parte de usuarios adminstrativos.
--Permite la generacion de reportes de los distintos usuarios que han registrado su asistencia, 
--Valida que si un usuario ya registro su ingreso , al registrar nuevamente su asistencia este registro sera de el de hora de salida.
--Cuando un usuario quiere registar su hora de asistencia de ingreso ingresa su codigo de registro que este debe ser otrogado posteriormente por el admin del sistema 
-el codigo del unico usuario que se encuentra registrado es 444.
-Este codigo se debe ingresar para validar el registro de ingreso o registro de salida 
+- Sistema de control de asistencias para el registro de ingreso y salida de empleados.
+-  Este sistema cuenta con un panel administrativo por parte de usuarios adminstrativos.
+- Permite la generacion de reportes de los distintos usuarios que han registrado su asistencia, 
+- Valida que si un usuario ya registro su ingreso , al registrar nuevamente su asistencia este registro sera de el de hora de salida.
+- Cuando un usuario quiere registar su hora de asistencia de ingreso ingresa su codigo de registro que este debe ser otrogado con anterioridad  por el admin del sistema 
+- El codigo del unico usuario que se encuentra registrado en el sistema es 444.
+- Este codigo se debe ingresar para validar el registro de ingreso o registro de salida 
 Por defecto el usuario administrativo esta quemado en Base de datos, las credenciales de inicio de sesion son:
 -user: admin
 -password: admin
@@ -32,22 +33,10 @@ Por defecto el usuario administrativo esta quemado en Base de datos, las credenc
 --Composer 
 --Text editor (VsCode)
 
-
 ## Authors
 
 👤 **Author1**
 
 - GitHub: [@RobertRivera18](https://github.com/RobertRivera18/controlAsistencias/)
 
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/use/repository/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
+¡
