@@ -39,4 +39,4 @@ Por defecto el usuario administrativo esta quemado en Base de datos, las credenc
 
 - GitHub: [@RobertRivera18](https://github.com/RobertRivera18/controlAsistencias/)
 
-¡
+Se creo los verisones del sistema una avanzada y otra mas basica la avanzada se encuentra en la rama master y la basica esta en la rama prueba
